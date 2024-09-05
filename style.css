@@ -10,3 +10,41 @@ padding: 20px;
 font-size: 32px;
 color: rgb(138, 43, 226)
 }
+section {
+    background-color: blueviolet;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-testo
+[
+    margin-rigth: 5%;
+]
+
+h1
+[font-size: 40px;
+]
+p[font-size: 20px
+]
+img{
+    height:200px
+}
+.categia-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+.categia-videos img{
+    opacity: 1,0;
+    height: 200px;
+
+}
+.categia-videos img:hover{
+    opacity: 1.0;
+    border: 3px solid green;
+
+}
+.ctegoria h2{
+    color: rgb(138, 43, 226)
+}
